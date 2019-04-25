@@ -10,8 +10,8 @@ To Run tests and generate coverage reports :
 
 > mvn jacoco:prepare-agent test jacoco:report
 
-Location of reports : *target/site/index.html*
-![ScreenShot of a report](jacoco-report-sample.png?raw=true "Jacoco Report")
+* Location of reports : *target/site/index.html*
+* [Screenshot of a sample report](https://github.com/ninadpchaudhari/JUnit-Assignment/blob/master/jacoco-report-sample.png?raw=true) 
 
 #### Requirements for assignment
 
